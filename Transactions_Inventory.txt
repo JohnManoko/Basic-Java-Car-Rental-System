@@ -1,0 +1,11 @@
+Current Date: Mar 3, 2020
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2015 = Days: 720
+Full Name: computer input
+Age: 50
+Location: rongai,ongata
+Contact: 0133256793
+Car: Taxi-2002
+Total Rent Price: 180000.00 
+--------------------------------------------------
